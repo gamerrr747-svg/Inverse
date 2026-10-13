@@ -1,0 +1,6 @@
+{
+  "name": "Grade 10 Algebra: Inverse Trigonometric Functions",
+  "description": "Interactive teaching platform for Grade 10 Algebra Unit 10.1C: Inverse Trigonometric Functions with interactive lessons, unit circle visualizer, graph tools, matching games, worksheets, and СОР assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
